@@ -16,3 +16,4 @@ Untuk menjalankan test :
 2. Ketik `mvn clean verify`
 3. Hasil Test akan ter generate pada folder ```target/cucumber-report-html/cucumber-html-reports/file-src-test-resources-Feature-YTMusic-feature.html```
 4. Report buka pada browser
+![image](https://user-images.githubusercontent.com/42730599/181730538-08776277-0b51-48d7-a44b-39c52406bf7f.png)
